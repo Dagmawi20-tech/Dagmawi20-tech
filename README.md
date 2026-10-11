@@ -1,4 +1,4 @@
-# Hey, I'm Dagmawi 👋
+![Hey, I am Dagmawi](assets/hello-dagmawi.svg)
 
 I learn by building — from a chess engine to tools that make everyday tasks easier.
 
